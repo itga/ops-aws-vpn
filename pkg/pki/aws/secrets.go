@@ -8,7 +8,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/secretsmanager"
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 	log "github.com/sirupsen/logrus"
 )
 

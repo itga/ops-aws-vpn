@@ -6,7 +6,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/service/dynamodb/dynamodbiface"
 	"github.com/aws/aws-sdk-go/service/secretsmanager/secretsmanageriface"
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 )
 
 type awsStorage struct {

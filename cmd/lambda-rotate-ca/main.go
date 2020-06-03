@@ -11,7 +11,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/secretsmanager"
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )

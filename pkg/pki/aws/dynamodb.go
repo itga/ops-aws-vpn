@@ -10,7 +10,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/dynamodb"
 	A "github.com/aws/aws-sdk-go/service/dynamodb/dynamodbattribute"
 	E "github.com/aws/aws-sdk-go/service/dynamodb/expression"
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 	log "github.com/sirupsen/logrus"
 )
 

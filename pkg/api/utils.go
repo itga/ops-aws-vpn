@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/awslabs/aws-lambda-go-api-proxy/core"
-	"github.com/empathybroker/aws-vpn/pkg/gsuite"
+	"github.com/itga/ops-aws-vpn/pkg/gsuite"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )

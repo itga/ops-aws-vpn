@@ -13,7 +13,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/coreos/go-systemd/dbus"
-	awsservices "github.com/empathybroker/aws-vpn/pkg/aws"
+	awsservices "github.com/itga/ops-aws-vpn/pkg/aws"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/net/context/ctxhttp"

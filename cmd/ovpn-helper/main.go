@@ -9,7 +9,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 	log "github.com/sirupsen/logrus"
 	jose "gopkg.in/square/go-jose.v2"
 )

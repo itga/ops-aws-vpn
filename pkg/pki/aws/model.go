@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 	"github.com/pkg/errors"
 )
 

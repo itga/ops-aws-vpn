@@ -8,10 +8,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/empathybroker/aws-vpn/pkg/api"
-	awsservices "github.com/empathybroker/aws-vpn/pkg/aws"
-	"github.com/empathybroker/aws-vpn/pkg/ovpn"
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/api"
+	awsservices "github.com/itga/ops-aws-vpn/pkg/aws"
+	"github.com/itga/ops-aws-vpn/pkg/ovpn"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 	log "github.com/sirupsen/logrus"
 	jose "gopkg.in/square/go-jose.v2"
 )

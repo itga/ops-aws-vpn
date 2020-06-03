@@ -3,10 +3,10 @@ package clientapi
 import (
 	"net/http"
 
-	"github.com/empathybroker/aws-vpn/pkg/api"
+	"github.com/itga/ops-aws-vpn/pkg/api"
 
-	"github.com/empathybroker/aws-vpn/pkg/pki"
 	"github.com/gorilla/mux"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 )
 
 func apiGetCert(w http.ResponseWriter, r *http.Request) {

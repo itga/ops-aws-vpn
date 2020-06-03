@@ -6,7 +6,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/empathybroker/aws-vpn/pkg/pki"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
 )
 
 var (

@@ -4,10 +4,10 @@ import (
 	"net/http"
 
 	"github.com/aws/aws-xray-sdk-go/xray"
-	awsservices "github.com/empathybroker/aws-vpn/pkg/aws"
-	"github.com/empathybroker/aws-vpn/pkg/pki"
-	awspki "github.com/empathybroker/aws-vpn/pkg/pki/aws"
 	"github.com/gorilla/mux"
+	awsservices "github.com/itga/ops-aws-vpn/pkg/aws"
+	"github.com/itga/ops-aws-vpn/pkg/pki"
+	awspki "github.com/itga/ops-aws-vpn/pkg/pki/aws"
 )
 
 var (

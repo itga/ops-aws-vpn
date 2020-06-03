@@ -10,8 +10,8 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/ec2"
-	"github.com/empathybroker/aws-vpn/pkg/api"
-	awsservices "github.com/empathybroker/aws-vpn/pkg/aws"
+	"github.com/itga/ops-aws-vpn/pkg/api"
+	awsservices "github.com/itga/ops-aws-vpn/pkg/aws"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )
